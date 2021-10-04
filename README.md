@@ -1,4 +1,4 @@
-# React Native Crypto Wallet
+# Unstoppable Wallet
 React Native App for Crypto Wallet
 ## Features
 
